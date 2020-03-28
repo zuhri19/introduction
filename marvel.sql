@@ -1,4 +1,4 @@
---database char marvel
+--database char marvel buat bahan pembelajaran
 
 CREATE TABLE marvels (ID INTEGER PRIMARY KEY,
     name TEXT,
